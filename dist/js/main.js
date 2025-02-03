@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
         return;
     }
 
-    fetch("/data/itinerario.json")
+    fetch("data/itinerario.json")
         .then(response => response.json())
         .then(itinerario => {
             const buttonsContainer = document.getElementById("buttons");
