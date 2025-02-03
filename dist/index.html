@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mapas de Chicago</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <!-- Estilos CSS para Clusters -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css"
+    />
+
+    <!-- Script de Clustering -->
+    <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      #map {
+        height: 500px;
+        width: 100%;
+      }
+      .btn {
+        margin: 10px;
+        padding: 10px;
+        cursor: pointer;
+        background: blue;
+        color: white;
+        border: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Mapas de Chicago</h1>
+    <div id="buttons"></div>
+    <div id="map" style="height: 500px; width: 100%"></div>
+
+    <script src="js/main.js"></script>
+  </body>
+</html>
