@@ -1,44 +1,40 @@
 {
-    "Día 1: Llegada y Exploración": {
-        "Aeropuerto O’Hare": [41.9742, -87.9073],
-        "Hampton Inn Majestic Chicago": [41.8820, -87.6290],
-        "Chicago Riverwalk": [41.8880, -87.6253],
-        "The Dearborn (Cena)": [41.8846, -87.6293]
-    },
-    "Día 2: Arte y Cultura": {
-        "Hampton Inn Majestic Chicago": [41.8820, -87.6290],
-        "Art Institute of Chicago": [41.8796, -87.6237],
-        "Millennium Park": [41.8827, -87.6226],
-        "Chicago Cultural Center": [41.8837, -87.6240],
-        "Roanoke Restaurant": [41.8806, -87.6297]
-    },
-    "Día 3: Arquitectura y Rascacielos": {
-        "Hampton Inn Majestic Chicago": [41.8820, -87.6290],
-        "Tour Arquitectónico en Barco": [41.8884, -87.6283],
-        "Beatnik on the River (Almuerzo)": [41.88535734306331, -87.63715586609256],
-        "Skydeck Chicago (Willis Tower)": [41.8789, -87.6359],
-        "Girl & the Goat (Cena)": [41.8841, -87.6475]
-    },
-    "Día 4: Museos y Vistas Panorámicas": {
-        "Hampton Inn Majestic Chicago": [41.8820, -87.6290],
-        "Field Museum": [41.8663, -87.6167],
-        "Adler Planetarium": [41.8661, -87.6068],
-        "Lou Malnati’s Pizzeria": [41.8917, -87.6275],
-        "360 Chicago Observation Deck": [41.8988, -87.6239],
-        "Magnificent Mile": [41.8951, -87.6247],
-        "Signature Room at the 95th (Cena)": [41.8988, -87.6239]
-    },
-    "Día 5: Compras en Aurora": {
-        "Hampton Inn Majestic Chicago": [41.8820, -87.6290],
-        "Ogilvie Transportation Center": [41.8826, -87.6406],
-        "Chicago Premium Outlets (Aurora)": [41.7678, -88.2982],
-        "The Gage (Cena)": [41.8805, -87.6243],
-        "Cadillac Palace Theater": [41.8842, -87.6322]
-    },
-    "Día 6: Despedida y Regreso": {
-        "Hampton Inn Majestic Chicago": [41.8820, -87.6290],
-        "State Street Shopping": [41.8842, -87.6289],
-        "Revival Food Hall": [41.8791, -87.6313],
-        "Aeropuerto O’Hare": [41.9742, -87.9073]
-    }
+  "Lunes 14 de abril": {
+    "Aeropuerto O’Hare": [41.9742, -87.9073],
+    "Hampton Inn Majestic Chicago": [41.882, -87.629],
+    "The Bean (Cloud Gate)": [41.8826, -87.6233],
+    "Millennium Park": [41.8827, -87.6226],
+    "Chicago Cultural Center": [41.8837, -87.624],
+    "Cadillac Palace Theatre": [41.8842, -87.6322],
+    "Chicago Theatre": [41.8855, -87.6276]
+  },
+  "Martes 15 de abril": {
+    "Hampton Inn Majestic Chicago": [41.882, -87.629],
+    "Navy Pier": [41.8917, -87.6078],
+    "Centennial Wheel": [41.8923, -87.609],
+    "FlyOver Chicago": [41.8916, -87.6093]
+  },
+  "Miércoles 16 de abril": {
+    "Hampton Inn Majestic Chicago": [41.882, -87.629],
+    "Chicago Architecture Center (inicio tour río)": [41.8877, -87.6233],
+    "Skydeck Chicago (Willis Tower)": [41.8789, -87.6359]
+  },
+  "Jueves 17 de abril": {
+    "Hampton Inn Majestic Chicago": [41.882, -87.629],
+    "360 Chicago": [41.8988, -87.6239],
+    "Magnificent Mile": [41.8947, -87.6241],
+    "Field Museum": [41.8663, -87.6167],
+    "Shedd Aquarium": [41.8676, -87.6131],
+    "Adler Planetarium": [41.8661, -87.6068]
+  },
+  "Viernes 18 de abril": {
+    "Hampton Inn Majestic Chicago": [41.882, -87.629],
+    "Chicago Premium Outlets (Aurora)": [41.7678, -88.2982]
+  },
+  "Sábado 19 de abril": {
+    "Hampton Inn Majestic Chicago": [41.882, -87.629],
+    "State Street Shopping": [41.8842, -87.6289],
+    "Revival Food Hall": [41.8791, -87.6313],
+    "Aeropuerto O’Hare": [41.9742, -87.9073]
+  }
 }
